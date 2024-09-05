@@ -1,6 +1,6 @@
 package com.example.xmlprocessor.configuration;
 
-import com.example.xmlprocessor.strategy.XmlProcessingStrategy;
+import strategy.XmlProcessingStrategy;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.plugin.core.PluginRegistry;
@@ -11,8 +11,6 @@ import java.net.URL;
 import java.net.URLClassLoader;
 import java.util.ArrayList;
 import java.util.List;
-
-/*Testing */
 
 @Configuration
 public class PluginConfig {

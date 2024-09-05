@@ -1,4 +1,4 @@
-package com.example.xmlprocessor.strategy;
+package strategy;
 
 import org.springframework.plugin.core.Plugin;
 

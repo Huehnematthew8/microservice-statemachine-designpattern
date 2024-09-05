@@ -1,6 +1,6 @@
 package com.example.xmlprocessor.controller;
 
-import com.example.xmlprocessor.strategy.XmlProcessingStrategy;
+import strategy.XmlProcessingStrategy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.plugin.core.PluginRegistry;
 import org.springframework.web.bind.annotation.*;
