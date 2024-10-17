@@ -1,0 +1,4 @@
+com\example\xmlprocessor\controller\XmlProcessorController.class
+com\example\xmlprocessor\XmlProcessorApplication.class
+com\example\xmlprocessor\configuration\PluginConfig.class
+strategy\XmlProcessingStrategy.class
